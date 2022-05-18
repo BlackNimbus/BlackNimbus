@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Stephen 👋</h1>
 
-- 👀 I’m interested in coding, music, gaming and eating
-- 🌱 I’m currently polishing up on my Javascript skills while learning React JS 
-- 💞️ I’m looking to collaborate on any Front-End and/or Javascript projects. 
+- 🌱 I am a 100Devs Full Stack Dev
+- 💞️ I have a passion for coding as well as design...I also love food
 - 📫 You can reach me via e-mail at shenryjr_85@hotmail.com
 
 <br>
