@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 I am a 100Devs Full Stack Dev
+- 🌱 Full Stack Dev
 - 💞️ I have a passion for coding as well as design...I also love food
 - 📫 You can reach me via e-mail at shenryjr_85@hotmail.com
 
