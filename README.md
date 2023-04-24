@@ -3,7 +3,7 @@
 <br>
 
 - 🌱 Full Stack Dev
-- 💞️ I have a passion for coding as well as design...I also love food
+- 💞️ I have a passion for coding as well as design
 - 📫 You can reach me via e-mail at shenryjr_85@hotmail.com
 
 <br>
