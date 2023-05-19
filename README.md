@@ -4,7 +4,7 @@
 
 - 🌱 Full Stack Dev
 - 💞️ I have a passion for coding as well as design
-- 📫 You can reach me via e-mail at shenryjr_85@hotmail.com
+- 📫 You can reach me via e-mail at shenryjr13@gmail.com
 
 <br>
 
